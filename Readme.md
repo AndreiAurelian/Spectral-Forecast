@@ -6,4 +6,4 @@ https://aip.scitation.org/doi/pdf/10.1063/1.5120818
 This project gets the matrices as input and outputs a similarity index between the matrix sample from a patient and the other samples. The output is shown as values in the console and a plot.
 In the article you can find the equations the project is based on.
 
-Screenshot-Code-Graphic.png
+![](https://github.com/AndreiAurelian/Spectral-Forecast/blob/master/Screenshot-Code-Graphic.png)
